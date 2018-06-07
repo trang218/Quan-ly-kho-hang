@@ -1,0 +1,694 @@
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.pdb
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DangNhap.resources
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.exe
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.pdb
+c:\users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Dangki.resources
+C:\Users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.HomePage.resources
+C:\Users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.userInformation.resources
+C:\Users\admin\documents\visual studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Dangki.resources
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DangNhap.resources
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.HomePage.resources
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.userInformation.resources
+C:\Users\duchi\Downloads\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Dangki.resources
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DangNhap.resources
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.HomePage.resources
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.userInformation.resources
+C:\Users\duchi\Documents\Visual Studio 2013\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Dangki.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Homepage.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.exe
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.pdb
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.pdb
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Dangki.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Homepage.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapNgayXBC.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.BCCT.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapNamXBC.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+E:\CNTT MTA\Project\QLKH\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.BCCT.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapNamXBC.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapNgayXBC.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Documents\Visual Studio 2015\Projects\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.BCCT.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Homepage.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapNamXBC.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapNgayXBC.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.TaiKhoan.resources
+C:\Users\CongThang\Documents\QL_KhoHang2017\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BCCT.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhapNamXBC.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhapNgayXBC.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.TaiKhoan.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.BCCT.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.NhapNamXBC.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.NhapNgayXBC.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Documents\GitHub\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Documents\GitHub\QuanLyKhoHang\2017_QLKH\obj\Debug\_2017_QLKH.SanPham.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\admin\Desktop\backup_12\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\admin\Desktop\backup_12\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.BCCT.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhapNamXBC.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhapNgayXBC.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.SanPham.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.BCCT.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhapNamXBC.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhapNgayXBC.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.SanPham.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Desktop\backup_12\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\FlashControlV71.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\stdole.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.SanPham.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\RdlCompile.cache
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\RdlCompile.compiled
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+C:\Users\CongThang\Desktop\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.SANPHAM.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\FlashControlV71.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\stdole.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\RdlCompile.cache
+C:\Users\CongThang\Downloads\QLKH-master\2017_QLKH\obj\Debug\RdlCompile.compiled
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.SANPHAM.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\RdlCompile.cache
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\obj\Debug\RdlCompile.compiled
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\stdole.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\HoaDonBanHang.rdlc
+C:\Users\PC-HIEUDAO\Desktop\QLKH\QLKH_CSDL\2017_QLKH\bin\Debug\PhieuNhapKho.rdlc
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\HoaDonBanHang.rdlc
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\PhieuNhapKho.rdlc
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\FlashControlV71.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\stdole.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.SANPHAM.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\RdlCompile.cache
+C:\Users\CongThang\Downloads\QLKH_CSDL-e410d11fa987fd1d4ce32ebd29f140d6f4c4040c\2017_QLKH\obj\Debug\RdlCompile.compiled
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\HoaDonBanHang.rdlc
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\PhieuNhapKho.rdlc
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\FlashControlV71.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\stdole.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.SANPHAM.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\RdlCompile.cache
+C:\Users\CongThang\Downloads\QLKH\2017_QLKH\obj\Debug\RdlCompile.compiled
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\HoaDonBanHang.rdlc
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\PhieuNhapKho.rdlc
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\stdole.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.SANPHAM.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\RdlCompile.cache
+C:\Users\PC-HIEUDAO\Desktop\Thực Tập Cơ Sở Dữ Liệu\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\RdlCompile.compiled
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\HoaDonBanHang.rdlc
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\PhieuNhapKho.rdlc
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.pdb
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\FlashControlV71.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\stdole.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.SANPHAM.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\RdlCompile.cache
+C:\Users\CongThang\Downloads\QuanLyKhoHang_Finally\QuanLyKhoHang_Finally\QLKH_FN\QLKH\2017_QLKH\obj\Debug\RdlCompile.compiled
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe.config
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.exe
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.pdb
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\BaoCaoNhap.rdlc
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\BaoCaoXuat.rdlc
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\HoaDonBanHang.rdlc
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\PhieuNhapKho.rdlc
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.exe
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\2017_QLKH.pdb
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ShockwaveFlashObjects.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\stdole.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csprojResolveAssemblyReference.cache
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCao.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BaoCaoF.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.BoPhan.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DangNhapHeThong.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DanhMucSP.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Doimatkhau.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.DoiQuyen.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhachHang.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.KhoHang.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Luong.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.MainMenu.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NguoiDung.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhaCC.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhanVIen.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.NhapXuat.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.Properties.Resources.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.SANPHAM.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\_2017_QLKH.ThemTaiKhoan.resources
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\2017_QLKH.csproj.GenerateResource.Cache
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\RdlCompile.cache
+D:\QLKH_FN\QLKH\2017_QLKH\obj\Debug\RdlCompile.compiled
